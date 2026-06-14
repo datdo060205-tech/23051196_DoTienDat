@@ -16,6 +16,8 @@ Web app Streamlit giải **12 bài toán mô hình ra quyết định** phát tr
 ```
 aideom_vn/
 ├── app.py                 # Toàn bộ ứng dụng
+├── AIDEOM_VN_Models.ipynb
+├── vietnam_priorities.csv
 ├── requirements.txt
 ├── README.md
 └── data/
