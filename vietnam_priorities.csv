@@ -1,0 +1,38 @@
+bai,bo_trong_so,tieu_chi,trong_so,mo_ta
+3,mac_dinh,growth,0.15,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,mac_dinh,productivity,0.15,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,mac_dinh,spillover,0.2,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,mac_dinh,export,0.15,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,mac_dinh,employment,0.1,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,mac_dinh,ai_readiness,0.2,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,mac_dinh,risk,0.15,Bộ trọng số mặc định Câu 3.4.2 (a1..a7); a7=risk bị trừ
+3,dinh_huong_tang_truong,growth,0.25,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_tang_truong,productivity,0.2,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_tang_truong,spillover,0.1,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_tang_truong,export,0.2,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_tang_truong,employment,0.05,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_tang_truong,ai_readiness,0.15,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_tang_truong,risk,0.05,Câu 3.4.4 - ưu tiên tăng trưởng/năng suất/xuất khẩu
+3,dinh_huong_bao_trum,growth,0.1,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+3,dinh_huong_bao_trum,productivity,0.05,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+3,dinh_huong_bao_trum,spillover,0.25,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+3,dinh_huong_bao_trum,export,0.05,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+3,dinh_huong_bao_trum,employment,0.25,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+3,dinh_huong_bao_trum,ai_readiness,0.1,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+3,dinh_huong_bao_trum,risk,0.2,Câu 3.4.4 - ưu tiên việc làm/lan tỏa/giảm rủi ro
+6,chuyen_gia,grdp_per_capita,0.1,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,fdi,0.1,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,digital_index,0.15,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,ai_readiness,0.2,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,trained_labor,0.15,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,rd_intensity,0.15,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,internet,0.05,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+6,chuyen_gia,gini,0.1,Trọng số chuyên gia TOPSIS Câu 6.4.1; gini là tiêu chí chi phí
+7,chinh_sach,growth,0.4,Trọng số chọn nghiệm thỏa hiệp Pareto (TOPSIS) Câu 7.4.3
+7,chinh_sach,inclusion,0.25,Trọng số chọn nghiệm thỏa hiệp Pareto (TOPSIS) Câu 7.4.3
+7,chinh_sach,environment,0.2,Trọng số chọn nghiệm thỏa hiệp Pareto (TOPSIS) Câu 7.4.3
+7,chinh_sach,security,0.15,Trọng số chọn nghiệm thỏa hiệp Pareto (TOPSIS) Câu 7.4.3
+11,reward_welfare,delta_gdp,0.4,Trọng số hàm phần thưởng welfare R_t (w1..w4)
+11,reward_welfare,delta_unemploy,0.25,Trọng số hàm phần thưởng welfare R_t (w1..w4)
+11,reward_welfare,cyber_risk,0.2,Trọng số hàm phần thưởng welfare R_t (w1..w4)
+11,reward_welfare,emission,0.15,Trọng số hàm phần thưởng welfare R_t (w1..w4)
